@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nikhil_singh/Documents/GitHub/pw-assignment-solutions/pw_assignment2_patterprinting",
+      "program": "/Users/nikhil_singh/Documents/GitHub/pw-assignment-solutions/pw_assignment2_patterprinting/build/Debug/outDebug"
+    }
+  ]
+}
